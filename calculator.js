@@ -19,5 +19,5 @@ else if (answer.operator === "division") {
     console.log(answer.FirstNumber / answer.SecondNumber);
 }
 else {
-    console.log("Ahad ki jaan Wrong Operator");
+    console.log("Wrong Operator");
 }
